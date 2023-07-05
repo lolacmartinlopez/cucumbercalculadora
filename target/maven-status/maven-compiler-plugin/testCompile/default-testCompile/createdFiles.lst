@@ -1,0 +1,5 @@
+net\unir\missi\StepDefinitions.class
+net\unir\missi\MultiplicacionStepDefinition.class
+net\unir\missi\DivisionStepsDefinition.class
+net\unir\missi\RunCucumberTest.class
+net\unir\missi\SumaSencillaStepsDefinition.class

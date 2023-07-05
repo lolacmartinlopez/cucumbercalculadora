@@ -1,0 +1,12 @@
+
+1) Creación proyecto
+mvn archetype:generate -DarchetypeGroupId=io.cucumber -DarchetypeArtifactId=cucumber-archetype -DarchetypeVersion=7.0.0 -DgroupId=net.unir.missi -DartifactId=cucumbercalculadora -Dpackage=net.unir.missi -Dversion=1.0.0-SNAPSHOT -DinteractiveMode=false
+
+2) Parte básica
+Añadir Calculadora
+Añadir feature simple
+Añadir feature con datos
+
+mvn test
+mvn test -Dcucumber.plugin="pretty"
+mvn test -Dcucumber.plugin="html:target/cucumber-report/cucumber.html"

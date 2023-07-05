@@ -1,0 +1,4 @@
+# Created at 2023-06-15T11:56:48.374
+Boot Manifest-JAR contains absolute paths in classpath 'D:\downloadsD\repos-lola\Tema9 ejemplos con cucumber\Tema9 ejemplos con cucumber\tema9\cucumbercalculadora\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
